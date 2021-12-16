@@ -8,4 +8,4 @@ Example of usages:
 - web app, where frontend user wants to filter products based on many different generic conditions instead of limited filter options
 - Data analysts, who need to use highly specific conditions to filter large sets of data (FYI: you can also use csv with that, just need to build a javascript object to be able to use this tool)
 
-Operators like "AND", "EQUAL" can have nested operators within them
+Operators like "AND", "EQUAL", "LARGER THAN" and etc. can have nested filter operators within them
